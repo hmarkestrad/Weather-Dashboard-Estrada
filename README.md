@@ -44,7 +44,7 @@ This site was developed using the following technologies:
 You can also use a keyboard shortcut to open a file in Chrome. Open a new tab in Chrome, then press Ctrl (Windows) or Cmd (Mac) + O. It will bring up the same Open File menu. Find your HTML file and open it.  
   
 ## Screenshot:  
-![PORTFOLIO CHALLENGE - ESTRADA](https://github.com/hmarkestrad/Weather-Dashboard-Estrada/blob/776e6546ed74207ed0c12d504a91550ba4b319e2/assets/images/screenshot.png)  
+![Weather-Dashboard-Estrada](https://github.com/hmarkestrad/Weather-Dashboard-Estrada/blob/776e6546ed74207ed0c12d504a91550ba4b319e2/assets/images/screenshot.png)  
   
 ## Questions
 Please forward any questions or comments to: h.mark.estrada@gmail.com  
