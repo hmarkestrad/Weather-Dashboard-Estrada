@@ -1,5 +1,5 @@
 # Weather-Dashboard-Estrada  
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/github/repo-size/hmarkestrad/Weather-Dashboard-Estrada"/>
 <img src="https://img.shields.io/github/languages/top/hmarkestrad/Weather-Dashboard-Estrada"/>
 <img src="https://img.shields.io/github/issues/hmarkestrad/Weather-Dashboard-Estrada"/>
