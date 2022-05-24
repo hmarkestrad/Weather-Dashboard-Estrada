@@ -1,5 +1,19 @@
 # Weather-Dashboard
-Server-Side APIs Challenge: Weather Dashboard 
+Server-Side APIs Challenge: Weather Dashboard
+  
+<p align="center">
+<img src="https://img.shields.io/github/repo-size/hmarkestrad/Weather-Dashboard-Estrada"/>
+<img src="https://img.shields.io/github/languages/top/hmarkestrad/Weather-Dashboard-Estrada"/>
+<img src="https://img.shields.io/github/issues/hmarkestrad/Weather-Dashboard-Estrada"/>
+<img src="https://img.shields.io/github/last-commit/hmarkestrad/Weather-Dashboard-Estrada"/><br>
+    <img src="https://img.shields.io/badge/Javascript-blue"/>
+    <img src="https://img.shields.io/badge/jQuery-blue"/>
+    <img src="https://img.shields.io/badge/-node.js-blue"/>
+    <img src="https://img.shields.io/badge/-inquirer-blue"/>
+    <img src="https://img.shields.io/badge/-screencastify-blue"/>
+    <img src="https://img.shields.io/badge/-json-blue"/>
+</p>
+  
 ## Acceptance Criteria  
 GIVEN I am using a daily planner to create a schedule  
 * WHEN I open the plannerTHEN the current day is displayed at the top of the calendar  
